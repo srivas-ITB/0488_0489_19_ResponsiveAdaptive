@@ -1,4 +1,4 @@
-# App Trivial
+# App_19_ResponsiveAdaptative
 
 ## Aplicació Responsive i Adaptative
 - Exemple d'aplicació responsive i adaptative
