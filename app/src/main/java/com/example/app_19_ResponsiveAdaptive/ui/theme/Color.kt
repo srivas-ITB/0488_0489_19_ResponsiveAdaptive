@@ -1,4 +1,4 @@
-package com.example.app_19_ResponsiveAdaptative.ui.theme
+package com.example.app_19_ResponsiveAdaptive.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

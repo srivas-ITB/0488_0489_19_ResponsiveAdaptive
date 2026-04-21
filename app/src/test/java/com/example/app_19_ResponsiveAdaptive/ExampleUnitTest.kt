@@ -1,4 +1,4 @@
-package com.example.app_19_ResponsiveAdaptative
+package com.example.app_19_ResponsiveAdaptive
 
 import org.junit.Test
 

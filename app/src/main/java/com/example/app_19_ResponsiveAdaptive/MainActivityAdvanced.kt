@@ -1,4 +1,4 @@
-package com.example.app_19_ResponsiveAdaptative
+package com.example.app_19_ResponsiveAdaptive
 
 import android.content.res.Configuration
 import android.os.Bundle
@@ -36,7 +36,7 @@ import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.app_19_ResponsiveAdaptative.ui.theme.MyApp_Theme
+import com.example.app_19_ResponsiveAdaptive.ui.theme.MyApp_Theme
 
 class MainActivityAdvanced : ComponentActivity() {
     @OptIn(ExperimentalMaterial3WindowSizeClassApi::class)

@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "App19_ResponsiveAdaptative"
+rootProject.name = "App19_ResponsiveAdaptive"
 include(":app")
  

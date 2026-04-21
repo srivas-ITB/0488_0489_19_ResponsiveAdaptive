@@ -1,4 +1,4 @@
-package com.example.app_19_ResponsiveAdaptative.ui.theme
+package com.example.app_19_ResponsiveAdaptive.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

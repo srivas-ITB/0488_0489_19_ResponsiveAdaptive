@@ -6,7 +6,7 @@ plugins {
 
 }
 
-val bundleId = "com.example.app_19_ResponsiveAdaptative"
+val bundleId = "com.example.app_19_ResponsiveAdaptive"
 
 android {
     namespace = bundleId
